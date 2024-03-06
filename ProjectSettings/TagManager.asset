@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damageble
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Decoration
+  - Water
+  - UI
+  - Player
+  - RailRoad
+  - Sense
+  - Enemy
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundProps
+    uniqueID: 1778704435
+    locked: 0
+  - name: Character
+    uniqueID: 4149220147
+    locked: 0
+  - name: Ground
+    uniqueID: 2108725053
+    locked: 0
+  - name: ForegroundProps
+    uniqueID: 2928128911
+    locked: 0
+  - name: UI
+    uniqueID: 820891657
+    locked: 0
